@@ -1,0 +1,6 @@
+li:nth-child(odd){
+    background: grey;
+}
+li{
+    list-style-type: none;
+}
